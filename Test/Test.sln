@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubleSort", "Test\BubleSort.csproj", "{E5346309-1B13-4B95-8A18-BAA159B08206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cmewenie", "Cmewenie\Cmewenie.csproj", "{256ABE92-2379-4DE1-934A-A73BEBC27570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{A01169C7-26F8-4546-876E-8E8AA20FB13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5346309-1B13-4B95-8A18-BAA159B08206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5346309-1B13-4B95-8A18-BAA159B08206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5346309-1B13-4B95-8A18-BAA159B08206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5346309-1B13-4B95-8A18-BAA159B08206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256ABE92-2379-4DE1-934A-A73BEBC27570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256ABE92-2379-4DE1-934A-A73BEBC27570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256ABE92-2379-4DE1-934A-A73BEBC27570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256ABE92-2379-4DE1-934A-A73BEBC27570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01169C7-26F8-4546-876E-8E8AA20FB13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01169C7-26F8-4546-876E-8E8AA20FB13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01169C7-26F8-4546-876E-8E8AA20FB13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01169C7-26F8-4546-876E-8E8AA20FB13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
